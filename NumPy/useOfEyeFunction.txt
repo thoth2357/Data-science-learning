@@ -1,0 +1,10 @@
+diabetes.csv
+diabetesSimplified.csv
+exercise.csv
+Experiment created on _01___02___2019 - 506153734175476c4f62416c57734963.faa6ba63383c4086ba587abf26b85814.v1-default-1752 - Results dataset.csv
+File1.py
+GettingFamiliarWithCommonlyUsedFunction.py
+Pract.py
+TheMagicDocumentation.pdf
+useOfEyeFunction.txt
+VWAP.py
